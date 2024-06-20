@@ -10,7 +10,7 @@ st.set_page_config(
 st.sidebar.success("Select a page above")
 
 # Load Model
-loaded_model = pickle.load(open('C:/Users/HP/Documents/Data Enthusiast/Web Try Error (python)/Streamlit web/Datmin/model1.sav', 'rb'))
+loaded_model = pickle.load(open('Data/model1.sav', 'rb'))
 
 # Creating a function for prediction
 def ipm_prediction(input_data):

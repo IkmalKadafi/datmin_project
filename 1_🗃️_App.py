@@ -20,9 +20,6 @@ def ipm_prediction(input_data):
 
     input_data_reshaped = input_data_array.reshape(1, -1)
     
-    if not np.all(np.isfinite(input_data_reshaped)):
-        raise ValueError("Input data contains NaN or Inf values")
-
     prediction = reg.predict(input_data_reshaped)
     print(prediction)
 
@@ -54,8 +51,6 @@ def main():
         ipm_predict = ipm_prediction([uhh, hls, rls, ppk])
 
     st.success(ipm_predict)
-
-
 
 if __name__ == '__main__':
     main()

@@ -8,7 +8,7 @@ from millify import millify
 from PIL import Image
 
 # Image path
-image = Image.open('C:/Users/HP/Documents/Data Enthusiast/Web Try Error (python)/Streamlit web/Datmin/choropleth.png')
+image = Image.open('Data/choropleth.png')
 st.set_page_config(
     page_title="IPM Indonesia 2023 Dashboard",
     page_icon="📈",

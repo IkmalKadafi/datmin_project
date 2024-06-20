@@ -3,6 +3,6 @@ pandas
 plotly
 numpy 
 matplotlib
-PIL
+PIL == 9.5.0
 geopandas
 millify

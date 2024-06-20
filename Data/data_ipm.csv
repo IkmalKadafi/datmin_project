@@ -1,0 +1,516 @@
+Kabupaten/Kota,Umur Harapan Hidup (tahun),Harapan Lama Sekolah (tahun),Rata-Rata Lama Sekolah (tahun),Pengeluaran Per Kapita (ribu rupiah),IPM,IPM Class
+Simeulue,69.57,14.28,9.81,7686,69.98,sedang
+Aceh Singkil,69.85,14.35,8.7,9374,71.14,tinggi
+Aceh Selatan,70.33,14.7,8.91,8712,71.14,tinggi
+Aceh Tenggara,72.62,14.27,10.09,8566,72.93,tinggi
+Aceh Timur,72.13,13.07,8.47,9436,70.73,tinggi
+Aceh Tengah,72.93,14.85,9.89,11323,76.45,tinggi
+Aceh Barat,71.89,14.64,9.98,10085,74.62,tinggi
+Aceh Besar,73.11,14.76,10.36,10309,75.98,tinggi
+Pidie,69.88,14.5,9.03,11,72.95,tinggi
+Bireuen,73.66,14.87,9.32,10,74.56,tinggi
+Aceh Utara,72.63,14.74,8.85,9,72.5,tinggi
+Aceh Barat Daya,70.47,13.67,8.77,9043,70.47,tinggi
+Gayo Lues,69.8,14.34,8.42,9,70.82,tinggi
+Aceh Tamiang,73.63,14.23,9.24,905,73.02,tinggi
+Nagan Raya,72.53,14.17,8.96,9062,72.15,tinggi
+Aceh Jaya,70.76,14.02,8.74,10,72.44,tinggi
+Bener Meriah,72.85,13.72,10.12,11855,76.06,tinggi
+Pidie Jaya,73.16,14.99,9.58,11005,76.04,tinggi
+Kota Banda Aceh,75.02,17.93,13.04,17521,88.32,sangat tinggi
+Kota Sabang,73.34,14.68,11.2,12137,78.7,tinggi
+Kota Langsa,73.98,15.7,11.27,12678,80.5,sangat tinggi
+Kota Lhokseumawe,74.76,15.54,11.27,12125,80.26,sangat tinggi
+Kota Subulussalam,69.68,15.06,8.32,8065,69.66,sedang
+Nias,71.74,13.3,6.14,7301,65.15,sedang
+Mandailing Natal,71.72,13.86,8.84,10251,72.65,tinggi
+Tapanuli Selatan,71.61,13.58,9.51,11829,74.58,tinggi
+Tapanuli Tengah,71.76,13.49,8.87,1069,72.77,tinggi
+Tapanuli Utara,74.1,13.73,10.09,12115,76.86,tinggi
+Toba Samosir,74.22,13.59,10.59,12676,77.83,tinggi
+Labuhan Batu,72.88,13.25,9.49,1167,74.7,tinggi
+Asahan,73.39,12.64,8.83,11795,73.59,tinggi
+Simalungun,74.08,12.82,9.72,11746,75.17,tinggi
+Dairi,74.13,13.32,9.88,10969,75.18,tinggi
+Karo,74.16,13.25,10.03,12779,76.88,tinggi
+Deli Serdang,73.65,13.39,10.28,1289,77.16,tinggi
+Langkat,74.14,13.27,8.73,11632,74.33,tinggi
+Nias Selatan,71.61,12.78,6.48,7299,64.98,sedang
+Humbang Hasundutan,74.07,13.32,10.01,8476,72.49,tinggi
+Pakpak Bharat,72.61,13.9,9.61,8764,72.3,tinggi
+Samosir,74.1,13.51,9.47,9158,72.93,tinggi
+Serdang Bedagai,73.11,12.64,8.85,11695,73.4,tinggi
+Batu Bara,72.63,13.11,8.5,10933,72.56,tinggi
+Padang Lawas Utara,71.57,13.53,9.55,10615,73.45,tinggi
+Padang Lawas,71.52,13.7,9.43,9395,72.16,tinggi
+Labuhan Batu Selatan,72.46,13.42,8.93,1195,74.23,tinggi
+Labuhan Batu Utara,74.06,13.57,8.87,12429,75.45,tinggi
+Nias Utara,72.12,13.36,6.85,7,65.44,sedang
+Nias Barat,72.3,12.98,7.07,6,64.68,sedang
+Kota Sibolga,74.02,13.42,10.44,12285,77.07,tinggi
+Kota Tanjung Balai,74.01,13.14,9.68,11753,75.42,tinggi
+Kota Pematang Siantar,74.75,14.6,11.58,13,80.46,sangat tinggi
+Kota Tebing Tinggi,74.07,13.12,10.86,13385,78.17,tinggi
+Kota Medan,74.76,14.78,11.62,15674,82.61,sangat tinggi
+Kota Binjai,74.18,14.17,11.19,11567,78.11,tinggi
+Kota Padangsidimpuan,73.54,14.59,11.12,11552,78.1,tinggi
+Kota Gunungsitoli,74.03,13.78,8.65,8635,71.55,tinggi
+Kepulauan Mentawai,71.06,12.9,7.76,6891,65.79,sedang
+Pesisir Selatan,73.27,13.36,8.58,9953,72.24,tinggi
+Solok,72.31,13.55,7.9,10717,71.92,tinggi
+Sijunjung,72.59,12.72,8.57,11018,72.3,tinggi
+Tanah Datar,74.19,14.78,9.02,10905,75.57,tinggi
+Padang Pariaman,73.77,14.19,8.41,11432,74.54,tinggi
+Agam,74.22,13.89,9.22,10402,74.44,tinggi
+Lima Puluh Kota,73.25,13.41,8.12,10285,72.05,tinggi
+Pasaman,72.04,13.25,8.13,9,69.85,sedang
+Solok Selatan,72.22,12.8,8.69,10884,72.24,tinggi
+Dharmasraya,74.04,12.68,8.71,11901,73.87,tinggi
+Pasaman Barat,72.44,13.7,8.81,9538,72.03,tinggi
+Kota Padang,74.94,16.56,11.62,15089,83.98,sangat tinggi
+Kota Solok,74.56,14.36,11.36,12709,79.66,tinggi
+Kota Sawah Lunto,73.79,13.69,10.44,10829,75.91,tinggi
+Kota Padang Panjang,74.24,15.29,11.94,1131,79.76,tinggi
+Kota Bukittinggi,75.33,15.01,11.64,13859,81.88,sangat tinggi
+Kota Payakumbuh,74.77,14.3,10.88,13978,80.14,sangat tinggi
+Kota Pariaman,74.2,14.79,10.79,13355,79.76,tinggi
+Kuantan Singingi,72.68,13.37,8.9,10945,73.35,tinggi
+Indragiri Hulu,73.38,12.59,8.42,10957,72.28,tinggi
+Indragiri Hilir,72.27,12.2,7.31,659,69.64,sedang
+Pelalawan,74.37,12.9,8.73,12399,74.69,tinggi
+Siak,73.72,12.86,9.88,12637,75.97,tinggi
+Kampar,74.29,13.6,9.4,11662,75.59,tinggi
+Rokan Hulu,73.59,12.88,8.81,10055,72.28,tinggi
+Bengkalis,73.88,13.34,9.73,12153,75.96,tinggi
+Rokan Hilir,73.64,12.88,8.52,10097,71.98,tinggi
+Kepulauan Meranti,72.14,12.86,7.99,8613,68.96,sedang
+Kota Pekanbaru,75.55,15.58,11.94,14983,83.67,sangat tinggi
+Kota Dumai,73.31,13.33,10.16,12457,76.45,tinggi
+Kerinci,73.18,13.91,8.59,10965,73.77,tinggi
+Merangin,73.97,12.25,8.13,10969,71.81,tinggi
+Sarolangun,73.46,12.48,8.14,12392,73.05,tinggi
+Batang Hari,74.48,12.96,8.22,10528,72.5,tinggi
+Muaro Jambi,74.55,13.15,8.69,9525,72.26,tinggi
+Tanjung Jabung Timur,74.09,12.2,7.43,9898,69.85,sedang
+Tanjung Jabung Barat,73.21,12.67,8.31,10229,71.44,tinggi
+Tebo,73.45,12.92,7.94,10894,71.99,tinggi
+Bungo,73.76,12.66,8.39,12224,73.57,tinggi
+Kota Jambi,74.85,15.54,11.32,12783,80.93,sangat tinggi
+Kota Sungai Penuh,74.01,14.83,10.36,11027,77.2,tinggi
+Ogan Komering Ulu,73.44,12.99,8.85,10859,73.17,tinggi
+Ogan Komering llir,74.09,11.97,7.08,11736,70.8,tinggi
+Muara Enim,74.29,12.01,8.14,11683,72.33,tinggi
+Lahat,73.36,12.44,8.56,10811,72.15,tinggi
+Musi Rawas,73.96,12.22,7.56,10429,70.52,tinggi
+Musi Banyuasin,74.22,12.31,7.68,11,71.3,tinggi
+Banyu Asin,74.29,12.09,7.46,11,70.67,tinggi
+Ogan Komering Ulu Selatan,73.21,11.79,8.05,9,69.05,sedang
+Ogan Komering Ulu Timur,74.31,12.47,8.07,12,73.05,tinggi
+Ogan Ilin,73.2,12.41,8.08,11,72.01,tinggi
+Empat Lawang,70.81,12.1,7.66,10375,69.07,sedang
+Penukal Abab Lematang llin,73.84,12.49,7.08,9,68.78,sedang
+Musi Rawas Utara,73.01,11.7,7.5,11,69.63,sedang
+Kota Palembang,75.37,14.45,10.92,15592,81.72,sangat tinggi
+Kota Prabumulih,74.58,13.31,10.35,13494,78.07,tinggi
+Kota Pagar Alam,73.61,13.49,9.43,10,73.25,tinggi
+Kota Lubuklinggau,74.67,13.55,9.93,14211,78.36,tinggi
+Bengkulu Selatan,72.87,13.65,9.41,10657,74.06,tinggi
+Rejang Lebong,73.67,14.19,8.8,10848,74.43,tinggi
+Bengkulu Utara,73.03,12.91,8.11,11188,72.27,tinggi
+Kaur,72.74,13.14,8.41,9365,70.92,tinggi
+Seluma,72.71,13.32,8.13,8949,70.27,tinggi
+Mukomuko,73.71,12.86,8.56,11075,73,tinggi
+Lebong,72.59,12.9,8.26,12,72.95,tinggi
+Kepahiang,72.26,13.14,8.36,10044,71.38,tinggi
+Bengkulu Tengah,72.46,13.46,7.51,10114,70.81,tinggi
+Kota Bengkulu,74.43,16.06,11.83,14924,83.38,sangat tinggi
+Lampung Barat,73.78,12.29,8.36,10593,71.72,tinggi
+Tanggamus,73.87,12.31,7.36,10,69.93,sedang
+Lampung Selatan,74.22,12.64,7.77,11,71.55,tinggi
+Lampung Timur,73.95,12.97,8.14,11,72.44,tinggi
+Lampung Tengah,74.17,13.04,7.81,12,73.39,tinggi
+Lampung Utara,73.91,12.55,8.36,9,70.78,tinggi
+Way Kanan,74.11,12.43,7.74,9887,70.51,tinggi
+Tulangbawang,73.81,12.29,7.57,11552,71.56,tinggi
+Pesawaran,73.8,12.62,7.99,8633,69.46,sedang
+Pringsewu,74.33,12.92,8.42,11016,73.11,tinggi
+Mesuji,73.71,11.81,7.11,8947,67.79,sedang
+Tulang Bawang Barat,74.02,12.1,7.79,9162,69.38,sedang
+Pesisir Barat,73.75,12.14,8.7,9102,70.4,tinggi
+Kota Bandar Lampung,74.53,14.72,10.97,13092,79.86,tinggi
+Kota Metro,75.14,14.77,11,12618,79.85,tinggi
+Bangka,73.03,13.11,8.32,13146,74.34,tinggi
+Belitung,72.52,11.9,8.98,14365,74.49,tinggi
+Bangka Barat,71.91,11.73,7.47,13105,71.13,tinggi
+Bangka Tengah,73.54,12.12,7.23,13643,72.36,tinggi
+Bangka Selatan,71.51,11.59,6.91,12627,69.67,sedang
+Belitung Timur,73.57,11.66,8.9,12536,73.31,tinggi
+Kota Pangkal Pinang,75.01,13.19,10.5,16734,80.45,sangat tinggi
+Karimun,74.58,12.61,8.69,12756,74.7,tinggi
+Bintan,74.82,13.44,8.92,14882,77.5,tinggi
+Natuna,74.15,13.93,9.08,15409,78.23,tinggi
+Lingga,73.45,12.63,7.35,12485,72.23,tinggi
+Kepulauan Anambas,73.5,13.05,7.4,12495,72.8,tinggi
+Kota Batam,74.98,13.34,11.19,1899,82.64,sangat tinggi
+Kota Tanjung Pinang,74.68,14.15,10.65,16213,81.14,sangat tinggi
+Kepulauan Seribu,74.89,12.66,9.03,13523,75.91,tinggi
+Kota Jakarta Selatan,76.02,13.66,11.75,24975,86.71,sangat tinggi
+Kota Jakarta Timur,75.37,14.06,11.88,18712,84.26,sangat tinggi
+Kota Jakarta Pusat,76.34,13.29,11.54,18202,83.29,sangat tinggi
+Kota Jakarta Barat,75.81,12.87,11.23,21709,83.85,sangat tinggi
+Kota Jakarta Utara,75.07,12.67,10.84,19617,81.85,sangat tinggi
+Bogor,71.92,12.64,8.37,11153,73.02,tinggi
+Sukabumi,71.83,12.38,7.33,9482,69.71,sedang
+Cianjur,70.79,12.03,7.22,8626,68.18,sedang
+Bandung,74.27,12.73,9.1,11018,74.03,tinggi
+Garut,72.07,12.16,7.84,8685,69.22,sedang
+Tasikmalaya,70.19,12.63,7.96,8562,69.38,sedang
+Ciamis,72.57,14.29,8.09,9750,73.12,tinggi
+Kuningan,74.29,12.26,7.89,10011,70.99,tinggi
+Cirebon,72.76,12.41,7.64,11128,71.81,tinggi
+Majalengka,71.05,12.26,7.52,10340,70.76,tinggi
+Sumedang,73.19,13.01,8.73,11136,74.02,tinggi
+Indramayu,72.46,12.29,6.94,10580,70.19,tinggi
+Subang,73.24,11.91,7.45,11537,71.42,tinggi
+Purwakarta,71.74,12.18,8.13,12619,73.43,tinggi
+Karawang,72.9,12.2,8.04,12392,73.25,tinggi
+Bekasi,74.3,13.17,9.57,12123,76.13,tinggi
+Bandung Barat,73.1,11.91,8.23,9392,70.33,tinggi
+Pangandaran,72.17,12.3,8.04,9406,70.57,tinggi
+Kota Bogor,74.45,13.45,10.64,12656,78.36,tinggi
+Kota Sukabumi,73.11,13.6,10.37,11799,77.16,tinggi
+Kota Bandung,75.04,14.24,11.06,18236,83.29,sangat tinggi
+Kota Cirebon,73.08,13.16,10.37,12506,77.45,tinggi
+Kota Bekasi,75.79,14.12,11.66,16479,83.06,sangat tinggi
+Kota Depok,75.23,13.96,11.58,16279,82.53,sangat tinggi
+Kota Cimahi,74.8,13.84,11.39,12883,79.69,tinggi
+Kota Tasikmalaya,72.92,13.49,9.54,11063,75.47,tinggi
+Kota Banjar,71.8,13.27,8.79,11356,74.45,tinggi
+Kabupaten Cilacap,74.73,12.67,7.39,11432,72.04,tinggi
+Kabupaten Banyumas,74.2,13.26,7.87,12492,73.96,tinggi
+Kabupaten Purbalingga,73.98,12.02,7.34,10964,70.51,tinggi
+Kabupaten Banjarnegara,74.5,11.82,6.86,10226,69.16,sedang
+Kabupaten Kebumen,74.98,13.37,7.86,9734,71.88,tinggi
+Kabupaten Purworejo,75.37,13.53,8.46,11110,74.35,tinggi
+Kabupaten Wonosobo,74.01,11.8,6.89,11577,70.18,tinggi
+Kabupaten Magelang,74.44,12.61,7.82,10493,71.56,tinggi
+Kabupaten Boyolali,76.23,12.66,8.09,13716,75.41,tinggi
+Kabupaten Klaten,77.07,13.41,9.27,12968,77.59,tinggi
+Kabupaten Sukoharjo,77.86,13.91,9.84,12319,78.65,tinggi
+Kabupaten Wonogiri,76.56,12.52,7.67,10283,71.97,tinggi
+Kabupaten Karanganyar,77.72,13.71,9.02,12260,77.31,tinggi
+Kabupaten Sragen,75.97,12.92,7.87,13439,75.1,tinggi
+Kabupaten Grobogan,75.04,12.46,7.28,11083,71.49,tinggi
+Kabupaten Blora,74.71,12.51,7.08,10541,70.63,tinggi
+Kabupaten Rembang,74.77,12.15,7.72,11399,71.89,tinggi
+Kabupaten Pati,76.39,12.96,7.8,11385,73.59,tinggi
+Kabupaten Kudus,76.86,13.26,9.34,12088,76.71,tinggi
+Kabupaten Jepara,76.04,12.85,8.26,11306,73.85,tinggi
+Kabupaten Demak,75.6,13.34,8.27,11166,74.07,tinggi
+Kabupaten Semarang,75.95,13.05,8.07,12943,75.13,tinggi
+Kabupaten Temanggung,75.77,12.61,7.5,10108,71.33,tinggi
+Kabupaten Kendal,74.58,12.99,7.73,12755,73.86,tinggi
+Kabupaten Batang,74.85,12.15,7.07,10470,70.2,tinggi
+Kabupaten Pekalongan,73.99,12.44,7.47,11297,71.45,tinggi
+Kabupaten Pemalang,73.98,12.01,6.55,9587,68.08,sedang
+Kabupaten Tegal,74.01,12.92,7.34,10537,71.12,tinggi
+Kabupaten Brebes,73.95,12.44,6.4,10993,69.71,sedang
+Kota Magelang,77.22,14.4,11.2,13175,81.17,sangat tinggi
+Kota Surakarta,77.63,14.9,11,15870,83.54,sangat tinggi
+Kota Salatiga,77.93,15.44,11.24,16650,84.99,sangat tinggi
+Kota Semarang,77.9,15.55,10.81,16420,84.43,sangat tinggi
+Kota Pekalongan,74.6,12.87,9.29,14056,76.71,tinggi
+Kota Tegal,74.84,13.18,9.24,14013,77.06,tinggi
+Kulon Progo,75.35,14.48,9.18,10723,75.82,tinggi
+Bantul,74.64,15.61,9.79,16524,81.74,sangat tinggi
+Gunung Kidul,74.76,13.39,7.32,10065,71.46,tinggi
+Sleman,75.26,16.77,11.01,16976,84.86,sangat tinggi
+Kota Yogyakarta,75.52,17.62,12.11,19920,88.61,sangat tinggi
+Kabupaten Pacitan,74.58,12.68,7.88,9681,70.94,tinggi
+Kabupaten Ponorogo,75.07,13.77,7.78,10658,73.18,tinggi
+Kabupaten Trenggalek,75.16,12.62,7.9,10465,71.96,tinggi
+Kabupaten Tulungagung,74.99,13.34,8.66,11565,74.65,tinggi
+Kabupaten Blitar,75.12,12.65,7.83,11499,72.84,tinggi
+Kabupaten Kediri,74.85,13.62,8.24,11952,74.68,tinggi
+Kabupaten Malang,75.14,13.48,7.75,10791,73,tinggi
+Kabupaten Lumajang,74.41,12.16,7.14,9720,69.37,sedang
+Kabupaten Jember,74.02,13.49,6.52,10277,70.42,tinggi
+Kabupaten Banyuwangi,73.93,13.12,7.76,12820,73.79,tinggi
+Kabupaten Bondowoso,73.19,13.32,6.36,11255,70.56,tinggi
+Kabupaten Situbondo,73.22,13.19,6.9,10702,70.65,tinggi
+Kabupaten Probolinggo,73.8,12.63,6.29,11756,70.36,tinggi
+Kabupaten Pasuruan,74.41,12.77,7.44,11239,71.91,tinggi
+Kabupaten Sidoarjo,75.36,14.97,10.78,15311,81.88,sangat tinggi
+Kabupaten Mojokerto,74.74,12.97,9.11,13467,76.23,tinggi
+Kabupaten Jombang,74.43,13.59,8.77,11999,75.16,tinggi
+Kabupaten Nganjuk,74.43,13.17,8.24,12821,74.7,tinggi
+Kabupaten Madiun,74.59,13.23,7.95,12259,74.02,tinggi
+Kabupaten Magetan,75.19,14.07,8.67,12495,76.3,tinggi
+Kabupaten Ngawi,75.01,12.85,7.78,11897,73.28,tinggi
+Kabupaten Bojonegoro,74.72,12.92,7.45,10776,71.8,tinggi
+Kabupaten Tuban,74.77,12.27,7.4,11174,71.4,tinggi
+Kabupaten Lamongan,74.86,14.02,8.34,12019,75.29,tinggi
+Kabupaten Gresik,74.24,13.97,10.01,13870,78.44,tinggi
+Kabupaten Bangkalan,73.29,11.97,5.99,9438,66.82,sedang
+Kabupaten Sampang,73.49,12.54,5.07,9363,66.19,sedang
+Kabupaten Pamekasan,73.51,13.68,7.15,9420,70.32,tinggi
+Kabupaten Sumenep,73.69,13.58,5.94,9807,69.13,sedang
+Kota Kediri,75.74,15.45,10.69,13276,80.97,sangat tinggi
+Kota Blitar,74.97,14.57,10.78,14548,80.78,sangat tinggi
+Kota Malang,75.32,15.77,10.94,17222,84,sangat tinggi
+Kota Probolinggo,74.1,13.73,9.56,12999,76.93,tinggi
+Kota Pasuruan,74.64,13.66,9.78,14250,78.3,tinggi
+Kota Mojokerto,75.8,14.04,11.05,14422,80.9,sangat tinggi
+Kota Madiun,75.4,14.44,11.82,17115,83.71,sangat tinggi
+Kota Surabaya,75.82,14.85,10.7,18977,83.99,sangat tinggi
+Kota Batu,75.14,14.56,9.85,13603,79.07,tinggi
+Pandeglang,74.01,13.73,7.15,9151,70.28,tinggi
+Lebak,73.8,12.1,6.6,913,67.68,sedang
+Tangerang,75.18,12.87,8.93,12749,75.56,tinggi
+Serang,74.62,12.86,7.79,1132,72.63,tinggi
+Kota Tangerang,75.3,13.89,10.91,15377,80.98,sangat tinggi
+Kota Cilegon,74.81,13.21,10.38,13663,78.24,tinggi
+Kota Serang,75.13,12.82,8.91,14088,76.43,tinggi
+Kota Tangerang Selatan,75.64,14.68,11.85,16225,83.57,sangat tinggi
+Jembrana,74.84,13.02,8.65,12236,74.8,tinggi
+Tabanan,75.41,13.04,9.35,14832,77.87,tinggi
+Badung,75.73,14.22,10.9,17915,83,sangat tinggi
+Gianyar,75.45,14.09,9.8,15047,79.69,tinggi
+Klungkung,74.61,13.12,8.48,1176,74.18,tinggi
+Bangli,73.98,12.52,7.57,1167,71.99,tinggi
+Karangasem,73.93,12.63,6.68,10753,70.09,tinggi
+Buleleng,74.65,13.27,7.57,13987,74.87,tinggi
+Kota Denpasar,75.59,14.11,11.52,20,84.68,sangat tinggi
+Lombok Barat,72.37,13.98,6.87,12,72.18,tinggi
+Lombok Tengah,71.39,13.87,6.61,11,70.41,tinggi
+Lombok Timur,71.72,14.06,7.12,10152,70.65,tinggi
+Sumbawa,72.41,13.24,8.52,9981,71.68,tinggi
+Dompu,71.54,13.83,8.97,9404,71.77,tinggi
+Bima,71.65,13.65,8.29,8963,70.33,tinggi
+Sumbawa Barat,72.65,13.66,8.98,12214,74.84,tinggi
+Lombok Utara,71.26,13.01,6.39,9785,68.02,sedang
+Kota Mataram,74.65,15.67,9.56,15894,81.15,sangat tinggi
+Kota Bima,72.97,15.06,10.95,1174,78.24,tinggi
+Sumba Barat,71.16,13.26,6.92,7993,66.82,sedang
+Sumba Timur,71.31,12.86,7.57,10008,69.63,sedang
+Kupang,69.24,13.89,7.42,822,67.51,sedang
+Timor Tengah Selatan,71.02,12.61,6.97,7,65.39,sedang
+Timor Tengah Utara,70.75,13.35,8.16,6889,66.56,sedang
+Belu,73.97,12.31,7.39,7907,67.5,sedang
+Alor,70.55,12.28,8.45,7565,66.82,sedang
+Lembata,73,12.46,8.26,7962,68.41,sedang
+Flores Timur,73.57,12.95,8.04,8223,69.24,sedang
+Sikka,73.97,13.66,6.98,8678,69.41,sedang
+Ende,72.74,13.82,8.2,9739,71.77,tinggi
+Ngada,74.12,12.74,8.82,935,71.61,tinggi
+Manggarai,72.2,13.71,7.63,7903,68.48,sedang
+Rote Ndao,69.55,13.22,7.82,7061,65.79,sedang
+Manggarai Barat,72.59,12.53,7.94,7913,67.84,sedang
+Sumba Tengah,69.21,13.13,7,6484,63.63,sedang
+Sumba Barat Daya,68.99,13.1,6.38,708,63.74,sedang
+Nagekeo,72.24,12.59,8.14,8706,69.03,sedang
+Manggarai Timur,72.79,12.59,7.7,6276,65.05,sedang
+Sabu Raijua,66.46,13.18,6.98,5899,61.37,sedang
+Malaka,71.28,12.82,7.13,6569,64.5,sedang
+Kota Kupang,74.66,16.44,11.62,13762,82.77,sangat tinggi
+Sambas,74.02,12.72,6.75,11057,70.6,tinggi
+Bengkayang,74.2,12.16,7.22,9859,69.53,sedang
+Landak,73.95,12.53,7.24,8423,68.22,sedang
+Mempawah,74.04,12.88,7.2,869,68.91,sedang
+Sanggau,74.01,11.87,7.44,9213,68.73,sedang
+Ketapang,73.58,11.96,7.55,9984,69.61,sedang
+Sintang,74.07,12.3,7.64,9128,69.39,sedang
+Kapuas Hulu,73.33,12.2,7.82,8055,67.86,sedang
+Sekadau,73.93,11.92,7.13,7981,66.83,sedang
+Melawi,73.7,11.34,7.42,9155,67.92,sedang
+Kayong Utara,72.17,12.12,6.35,8594,66.06,sedang
+Kubu Raya,73.27,13.89,7.04,9605,70.5,tinggi
+Kota Pontianak,75.07,15.04,10.45,15632,81.63,sangat tinggi
+Kota Singkawang,74.42,12.94,8.21,12457,74.13,tinggi
+KALIMANTAN TENGAH,73.54,12.76,8.73,11878,73.73,tinggi
+Kotawaringin Barat,73.13,12.77,8.66,13798,74.92,tinggi
+Kotawaringin Timur,74.22,12.88,8.17,12546,73.99,tinggi
+Kapuas,72.75,12.96,7.84,11829,72.4,tinggi
+Barito Selatan,72.63,12.8,9.13,12067,74.01,tinggi
+Barito Utara,73.58,12.54,8.91,1072,72.71,tinggi
+Sukamara,74.12,12.16,8.17,9494,70.35,tinggi
+Lamandau,73.31,12.52,8.67,1205,73.44,tinggi
+Seruyan,73.09,12.03,8,10157,70.24,tinggi
+Katingan,73.98,12.98,8.85,11399,73.9,tinggi
+Pulang Pisau,72.97,12.51,8.27,10752,71.62,tinggi
+Gunung Mas,73.31,12.05,9.25,11462,73.18,tinggi
+Barito Timur,72.04,12.87,9.45,12083,74.21,tinggi
+Murung Raya,73.23,12.04,7.81,11053,70.91,tinggi
+Kota Palangka Raya,74.23,14.99,11.65,14727,81.95,sangat tinggi
+Tanah Laut,74.46,12.41,7.92,12198,72.98,tinggi
+Kota Baru,73.76,12.07,7.55,1248,72.01,tinggi
+Banjar,73.33,13.03,7.94,13301,74.01,tinggi
+Barito Kuala,72.28,12.55,7.74,1075,70.67,tinggi
+Tapin,74.47,12.33,8.05,12776,73.52,tinggi
+Hulu Sungai Selatan,72.52,12.46,7.86,13743,73.21,tinggi
+Hulu Sungai Tengah,72.33,12.24,8.29,12782,72.76,tinggi
+Hulu Sungai Utara,72.21,13.19,7.77,10491,71.12,tinggi
+Tabalong,74.63,12.91,9.14,12507,75.43,tinggi
+Tanah Bumbu,74.28,12.6,8.3,12516,73.86,tinggi
+Balangan,73.69,12.82,8.03,11888,72.97,tinggi
+Kota Banjarmasin,74.88,13.97,10.24,1528,79.98,tinggi
+Kota Banjar Baru,74.9,14.85,10.99,14524,81.25,sangat tinggi
+Paser,73.89,13.37,8.91,11651,74.56,tinggi
+Kutai Barat,73.73,13.25,8.85,11291,73.97,tinggi
+Kutai Kartanegara,74.12,13.64,9.26,12323,75.95,tinggi
+Kutai Timur,74.33,13.01,9.45,11961,75.33,tinggi
+Berau,73.45,13.36,9.56,1362,76.71,tinggi
+Penajam Paser Utara,74.03,12.86,8.53,12517,74.33,tinggi
+Mahakam Ulu,73.44,12.63,8.49,8696,70.02,tinggi
+Kota Balikpapan,75.64,14.24,10.93,16195,82.03,sangat tinggi
+Kota Samarinda,75.27,15.39,10.93,1561,82.61,sangat tinggi
+Kota Bontang,74.81,13.43,10.92,17659,81.63,sangat tinggi
+Malinau,73.25,13.34,9.43,10708,74,tinggi
+Bulungan,73.83,13.04,9.21,10205,73.2,tinggi
+Tana Tidung,73.47,12.39,9.04,8386,70.06,tinggi
+Nunukan,73.11,12.68,8.26,7787,68.43,sedang
+Kota Tarakan,74.24,14.21,10.36,11992,77.61,tinggi
+Bolaang Mongondow,71.94,11.63,8.36,10915,70.48,tinggi
+Minahasa,74.96,14.18,10.11,13027,78.48,tinggi
+Kepulauan Sangihe,74.49,12.6,8.64,11946,73.94,tinggi
+Kepulauan Talaud,73.25,12.66,9.91,9146,72.22,tinggi
+Minahasa Selatan,74.07,12.99,9.41,1209,75.25,tinggi
+Minahasa Utara,74.5,7,10.3,11958,76.5,tinggi
+Bolaang Mongondow Utara,73.41,12.38,8.58,9652,70.97,tinggi
+Siau Tagulandang Biaro,74.4,12.03,9.25,8742,70.81,tinggi
+Minahasa Tenggara,73.11,12.45,9.13,11034,72.97,tinggi
+Bolaang Mongondow Selatan,70.8,12.33,8.17,9593,69.17,sedang
+Bolaang Mongondow Timur,73.25,11.9,8.27,9741,70.09,tinggi
+Kota Manado,75.02,14.19,11.44,14822,81.4,sangat tinggi
+Kota Bitung,74.22,12.66,9.94,12954,76.33,tinggi
+Kota Tomohon,75.28,14.24,10.99,12488,79.29,tinggi
+Kota Kotamobagu,74.7,12.9,10.33,11452,76.01,tinggi
+Banggai Kepulauan,67.35,13.09,8.62,8066,67.05,sedang
+Banggai,72.09,13.34,8.63,104,72.19,tinggi
+Morowali,71,13.38,9.37,11708,73.82,tinggi
+Poso,72.98,13.74,9.53,9622,73.25,tinggi
+Donggala,70.52,12.61,7.99,8766,68.17,sedang
+Toli - Toli,71.09,13.04,8.77,8665,69.68,sedang
+Buol,71.06,13.17,9.09,8678,70.18,tinggi
+Parigi Moutong,68.62,12.51,8.04,10471,69.06,sedang
+Tojo Una - Una,70.89,12.37,8.51,855,68.47,sedang
+Sigi,71.11,13.05,9.03,8891,70.28,tinggi
+Banggai Laut,70.75,13.03,8.64,847,69.12,sedang
+Morowali Utara,72.19,12.29,8.94,9623,70.74,tinggi
+Kota Palu,73.71,16.51,11.74,15501,83.71,sangat tinggi
+Kepulauan Selayar,73.27,12.69,8.35,983,71.13,tinggi
+Bulukumba,74.01,13.43,8.26,11392,73.64,tinggi
+Bantaeng,72.67,12.53,7.09,12304,71.28,tinggi
+Jeneponto,73.81,12.12,7,9781,68.95,sedang
+Takalar,73.43,12.49,7.66,11239,71.46,tinggi
+Gowa,74.03,13.7,8.41,10233,73.01,tinggi
+Sinjai,72.83,13.26,7.8,1018,71.2,tinggi
+Maros,73.55,13.5,8.03,11795,73.56,tinggi
+Pangkajene dan Kepulauan,72.87,12.8,8.31,12241,73.23,tinggi
+Barru,72.57,13.62,8.54,11712,73.8,tinggi
+Bone,73.2,13,7.54,9682,70.25,tinggi
+Soppeng,73.47,13.21,8.27,10098,71.94,tinggi
+Wajo,73.25,13.31,7.45,13192,73.56,tinggi
+Sidenreng Rappang,74.32,13.02,8.2,12739,74.38,tinggi
+Pinrang,74.47,13.27,8.3,12559,74.7,tinggi
+Enrekang,73.92,13.87,8.94,11636,75.11,tinggi
+Luwu,73.3,13.41,8.73,10691,73.23,tinggi
+Tana Toraja,74.63,13.88,8.6,8017,71.01,tinggi
+Luwu Utara,73.56,12.59,8.14,12513,73.31,tinggi
+Luwu Timur,74.32,13.01,8.93,13451,75.84,tinggi
+Toraja Utara,74.88,13.42,8.51,8871,71.69,tinggi
+Kota Makasar,75.15,15.61,11.56,17889,84.85,sangat tinggi
+Kota Parepare,74.44,14.54,10.7,14495,80.36,sangat tinggi
+Kota Palopo,74,15.12,11.13,13892,80.77,sangat tinggi
+Buton,70.36,13.88,8.49,7995,68.96,sedang
+Munal,71.56,14.02,8.53,8703,70.62,tinggi
+Konawe,72.78,13.04,9.56,10963,73.88,tinggi
+Kolaka,73.54,13.03,9.35,13055,75.73,tinggi
+Konawe Selatan,71.72,12.78,8.51,9753,70.64,tinggi
+Bombana,70.88,11.9,8.07,9132,68.12,sedang
+Wakatobi,70.76,13.52,8.51,1024,71.45,tinggi
+Kolaka Utara,70.62,12.17,8.81,1102,71.11,tinggi
+Buton Utara,71.36,13.17,9.12,8289,69.85,sedang
+Konawe Utara,70.53,13.12,9.6,10113,72.11,tinggi
+Kolaka Timur,73.11,12.7,8.4,852,69.61,sedang
+Konawe Kepulauan,70.25,12.54,9.45,7564,68.11,sedang
+Muna Barat,71.17,12.62,7.86,8076,67.44,sedang
+Buton Tengah,70.37,13.2,7.34,8003,66.94,sedang
+Buton Selatan,70.14,13.26,7.65,7936,67.19,sedang
+Kota Kendari,75.34,16.91,12.53,15116,85.51,sangat tinggi
+Kota Baubau,74.53,15.52,11.02,11207,79,tinggi
+Boalemo,71.24,12.48,7.3,9941,68.78,sedang
+Gorontalo,70.81,13.21,7.79,10336,70.37,tinggi
+Pohuwato,69.4,12.46,7.59,11018,69.3,sedang
+Bone Bolango,70.19,13.67,8.35,11114,71.97,tinggi
+Gorontalo Utara,69.65,12.49,7.17,10037,68,sedang
+Kota Gorontalo,73.25,14.58,10.4,13351,78.64,tinggi
+Majene,70.06,13.71,9.28,10462,72.44,tinggi
+Polewali Mandar,70.82,13.48,7.71,9096,69.24,sedang
+Mamasa,72.16,12.54,8.11,8108,68.14,sedang
+Mamuju,71.79,13.26,8.16,10075,71.07,tinggi
+Pasangkayu,70.09,12.07,8.12,11649,70.42,tinggi
+Mamuju Tengah,69.76,12.66,7.73,8821,67.63,sedang
+Maluku Tenggara Barat,70.19,12.33,9.91,6722,67.04,sedang
+Maluku Tenggara,70.71,12.9,9.79,8174,69.91,sedang
+Maluku Tengah,70.83,14.37,9.78,10788,74.34,tinggi
+Buru,70.19,13.23,9.01,10879,72.11,tinggi
+Kepulauan Aru,70.27,12.36,8.97,8133,68.19,sedang
+Seram Bagian Barat,70.88,13.69,9.35,9324,71.68,tinggi
+Seram Bagian Timur,68.33,12.91,8.82,1002,69.84,sedang
+Maluku Barat Daya,69.3,12.7,8.92,7223,66.71,sedang
+Buru Selatan,70.11,12.84,8.23,8108,67.68,sedang
+Kota Ambon,72.86,16.07,12.22,14692,82.84,sangat tinggi
+Kota Tual,71.32,14.01,10.66,7825,71.67,tinggi
+Halmahera Barat,70.46,13.24,8.58,8046,68.56,sedang
+Halmahera Tengah,70.19,13.23,9.19,8675,69.95,sedang
+Kepulauan Sula,68.54,12.97,9.04,7718,67.49,sedang
+Halmahera Selatan,70.25,13.03,8.17,78831,67.55,sedang
+Halmahera Utara,71.74,13.68,8.65,8152,69.79,sedang
+Halmahera Timur,71.36,12.87,8.66,865,69.48,sedang
+Pulau Morotai,70.81,12.99,7.55,7141,65.93,sedang
+Pulau Taliabu,67.04,12.87,7.97,6939,64.31,sedang
+Kota Ternate,72.55,15.78,12.07,14042,81.79,sangat tinggi
+Kota Tidore Kepulauan,72.2,14.48,9.97,9034,73.4,tinggi
+Fakfak,71.44,14.78,9.17,7851,70.85,tinggi
+Kaimana,68.96,12.5,8.8,8749,68.31,sedang
+Teluk Wondama,65.32,11.9,7.27,849,63.84,sedang
+Teluk Bintuni,67.75,12.44,8.51,10324,69.01,sedang
+Manokwari,72.25,13.78,8.54,12566,74.52,tinggi
+Sorong Selatan,67.11,13.28,7.62,6727,63.98,sedang
+Sorong,69.88,13.92,8.61,7984,68.89,sedang
+Raja Ampat,66.98,12.11,8.24,8483,66,sedang
+Tambrauw,65.7,12.36,5.71,5302,57.53,rendah
+Maybrat,65.82,13.49,7.32,5669,61.29,sedang
+Manokwari Selatan,68.09,12.56,6.96,5948,61.55,sedang
+Pegunungan Arfak,67.71,11.79,5.51,5438,57.82,rendah
+Kota Sorong,72.83,14.42,11.5,14133,80.11,sangat tinggi
+Merauke,71.27,14.47,9.25,10747,74,tinggi
+Jayawijaya,69.79,12.84,5.98,8159,64.81,sedang
+Jayapura,70.23,14.58,10.32,10671,74.74,tinggi
+Nabire,69.82,12.64,10.33,9381,71.36,tinggi
+Kepulauan Yapen,70.72,12.81,9.7,8091,69.62,sedang
+Biak Numfor,70.75,14.22,10.54,10229,74.45,tinggi
+Paniai,69.49,10.53,4.79,6977,58.83,rendah
+Puncak Jaya,67.77,7.51,4.23,5731,51.49,rendah
+Mimika,72.83,12.96,10.47,12076,75.91,tinggi
+Boven Digoel,68.9,11.43,9.25,8396,67.32,sedang
+Mappi,66.23,11.04,6.95,6821,60.71,sedang
+Asmat,67.84,9.7,5.58,6057,56.85,rendah
+Yahukimo,66.42,8.04,4.34,5351,51.19,rendah
+Pegunungan Bintang,65.93,6.78,3.37,5849,48.51,rendah
+Tolikara,67.03,9.02,3.68,5397,51.74,rendah
+Sarmi,69.68,12.33,9.36,7204,67,sedang
+Keerom,69.73,12.46,8.57,9545,69.25,sedang
+Waropen,69.54,12.84,9.41,7335,67.67,sedang
+Supiori,69.37,13.19,9.2,6259,65.84,sedang
+Mamberamo Raya,68.75,11.83,6.28,5105,58.49,rendah
+Nduga,63.88,4.33,1.71,4352,37.68,rendah
+Lanny Jaya,67.19,9.27,3.71,4751,50.81,rendah
+Mamberamo Tengah,68.93,9.62,3.63,4855,51.98,rendah
+Yalimo,65.95,9.66,3.34,5015,50.87,rendah
+Puncak,66.77,5.59,2.19,5975,44.71,rendah
+Dogiyai,66.49,10.62,4.97,6182,56.74,rendah
+Intan Jaya,66.68,7.69,3.27,614,50.39,rendah
+Deiyai,66.52,9.85,3.27,5104,51.4,rendah
+Kota Jayapura,71.76,15.26,11.84,15272,81.51,sangat tinggi

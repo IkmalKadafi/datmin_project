@@ -18,6 +18,9 @@ def ipm_prediction(input_data):
     input_data_array = np.asarray(input_data)
 
     input_data_reshaped = input_data_array.reshape(1, -1)
+    
+    if not np.all(np.isfinite(input_data_reshaped)):
+        raise ValueError("Input data contains NaN or Inf values")
 
     prediction = loaded_model.predict(input_data_reshaped)
     print(prediction)

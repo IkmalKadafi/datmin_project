@@ -1,5 +1,6 @@
 import numpy as np
 import pickle
+import joblib
 import streamlit as st
 
 st.set_page_config(
@@ -10,7 +11,7 @@ st.set_page_config(
 st.sidebar.success("Select a page above")
 
 # Load Model
-loaded_model = pickle.load(open('Data/model1.sav', 'rb'))
+reg = joblib.load('Data/regression_model.joblib')
 
 # Creating a function for prediction
 def ipm_prediction(input_data):
@@ -22,7 +23,7 @@ def ipm_prediction(input_data):
     if not np.all(np.isfinite(input_data_reshaped)):
         raise ValueError("Input data contains NaN or Inf values")
 
-    prediction = loaded_model.predict(input_data_reshaped)
+    prediction = reg.predict(input_data_reshaped)
     print(prediction)
 
     if (prediction[0] >= 80):

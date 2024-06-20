@@ -3,7 +3,7 @@ pandas
 plotly
 numpy 
 matplotlib
-pickle
+pickle == 4.0
 PIL
 geopandas
 millify

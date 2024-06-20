@@ -6,4 +6,4 @@ matplotlib
 pillow
 geopandas
 millify
-sklearn
+scikit-learn

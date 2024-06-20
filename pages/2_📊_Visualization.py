@@ -20,7 +20,7 @@ st.title("Dashboard IPM Indonesia 2023")
 
 # Load Data
 def load_df1():
-    df1 = pd.read_csv("C:/Users/HP/Documents/Data Enthusiast/Web Try Error (python)/Streamlit web/Datmin/df_clean.csv")
+    df1 = pd.read_csv("Data/df_clean.csv")
 
     df1.drop(df1.columns[df1.columns.str.contains(
         'unnamed', case=False)], axis=1, inplace=True)
@@ -29,7 +29,7 @@ def load_df1():
 df1 = load_df1()
 
 def load_df2():
-    df2 = pd.read_csv("C:/Users/HP/Documents/Data Enthusiast/Web Try Error (python)/Streamlit web/Datmin/data_ipm.csv")
+    df2 = pd.read_csv("Data/data_ipm.csv")
 
     df2.drop(df2.columns[df2.columns.str.contains(
         'unnamed', case=False)], axis=1, inplace=True)
@@ -37,7 +37,7 @@ def load_df2():
 df2 = load_df2()
 
 def load_df3():
-    df3 = pd.read_csv("C:/Users/HP/Documents/Data Enthusiast/Web Try Error (python)/Streamlit web/Datmin/data_geomap.csv")
+    df3 = pd.read_csv("Data/data_geomap.csv")
     df3.drop(df3.columns[df3.columns.str.contains(
         'unnamed', case=False)], axis=1, inplace=True)
     return df3

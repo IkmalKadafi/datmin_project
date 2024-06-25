@@ -35,7 +35,7 @@ def ipm_prediction(input_data):
 
 def main():
     # Giving a tittle
-    st.title("App Prediksi Indeks Pembangunan Manusial (IPM)")
+    st.title("App Prediksi Indeks Pembangunan Manusia (IPM)")
 
     # Giving Input  data
     uhh = st.text_input("Masukkan Nilai Umur Harapan Hidup (tahun)")
